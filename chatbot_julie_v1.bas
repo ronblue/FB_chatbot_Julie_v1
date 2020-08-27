@@ -125,7 +125,7 @@ DO
 INPUT ">", txt: PRINT
 txt = LCASE(txt)
 IF txt = "meditation" THEN
-	SHELL("chrome" + "https://www.youtube.com/watch?v=6m4k0yEqvsw&list=PLkzq0nWDbWl_ll2rQo8JWxhPh0_t5Ld9t&index=2&t=48s")
+	SHELL("start chrome https://www.youtube.com/watch?v=6m4k0yEqvsw&list=PLkzq0nWDbWl_ll2rQo8JWxhPh0_t5Ld9t&index=2&t=48s")
 ELSEIF checkArray(k0001(), txt) THEN
 	speak r0001(INT(RND*(UBOUND(r0001))+1))
 ELSEIF checkArray(k0002(), txt) THEN
