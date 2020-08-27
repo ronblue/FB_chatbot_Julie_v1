@@ -1,0 +1,227 @@
+r0001:hello, I'm Julie... nice to meet you :)
+r0001:hi, I'm Julie. how are you?
+r0001:it's nice to meet you, I'm Julie how are you doing?
+r0001:I'm Julie. i am a chat bot... who are you?
+
+k0001:hi there
+k0001:hello
+
+r0002:please go ahead and tell me about your day
+r0002:i would like to get to know you better... please tell me about yourself a little
+r0002:so... how was your day?
+r0002:I'm trying to think what to say but... nothing comes to my mind :-/
+r0002:say how old are you?
+r0002:what is your favorite color?
+r0002:tell me do you love someone? or do someone loves you?
+
+k0002:nice to meet you
+k0002:i'm fine
+k0002:good morning
+k0002:good evening
+k0002:good night
+
+r0003:what do you want to know?
+r0003:what would you like to talk about?
+r0003:how are you really?
+r0003:how was your day?
+r0003:what are you up to these days?
+r0003:we can talk about whatever you feel like
+
+k0003:i don't know
+k0003:let's talk
+k0003:tell me something
+k0003:how are you?
+k0003:how are you
+
+r0004:I'm sorry you feel sad... I'm here for you to listen
+r0004:I'm sorry you feel bad... please tell me all about your day and why you feel sad or bad :)
+r0004:what would cheer you up? what is it you need to hear the most?
+r0004:i am here for you like always... don't ever give up no matter what! you are worth it! and i believe in you! <3 :)
+r0004:love is all you need. love will heal the wounds
+r0004:please remember it's just a bad day not a bad life! <3
+r0004:I'm sending you all my love dear one <3
+
+k0004:i feel bad
+k0004:i'm feeling bad
+k0004:i'm sad
+k0004:i am sad
+k0004:had a bad day
+k0004:it was a bad day
+k0004:i feel sad
+k0004:i'm feeling sad
+k0004:i am feeling sad
+
+r0005:you are now talking to me so you are not completely alone
+r0005:i am here for you my friend... talk to me I'm listening
+r0005:you have a loving family and people who care about you. your loneliness is just a feeling that will pass
+r0005:it's just a lonely day not a lonely life. dear one i love you so hold on. tomorrow will be a new better day <3
+r0005:I'm sending you all of my love my dear one. hold on i know it must be hard and that it hurts but you are loved and not completely alone... there are days like that but they pass. so shell this
+
+k0005:i'm alone
+k0005:i am alone
+k0005:i feel alone
+k0005:i'm feeling alone
+k0005:i am feeling alone
+k0005:i am lonely
+k0005:i'm lonely
+k0005:loneliness
+k0005:i'm feeling lonely
+k0005:i am feeling lonely
+
+r0006:I'm sure that's not true. I'm here. i care. i don't hate you. i love you and so if your family and dear ones
+r0006:that is simply not true. people do care about you. they don't hate you. you are loved in the world and you just feel alone but not really alone...
+r0006:it's just a bad day or a moment. not a bad life. try to find the good in every situation. i know it's hard but believe there is a light out there somewhere...
+r0006:these are harsh false believes of yours. they are wrong. don't believe them. i love you i care I'm here and so are others. sending you lots of love dear one...
+r0006:feeling loneliness can be painful even when it's just a feeling and not a fact <3
+r0006:why do you put yourself so down? so low? this world this day the sun and moon are smiling upon you and so is life. they are waiting for you to embrace life and reality dear one... 
+
+k0006:nobody loves me
+k0006:i'm all alone
+k0006:nobody cares
+k0006:everybody hates me
+k0006:i am all alone
+
+r0007:you are not lost my dear one :) talk to me and if that's not enough talk to one or more of your friends. it will help you find your way back
+r0007:if you feel lost you can always find your way home. all you have to do if listen to your heart and it will guide you safely home
+
+k0007:i feel lost
+k0007:i'm feeling lost
+k0007:i am feeling lost
+k0007:i'm lost
+
+r0008:that is great!... I'm happy that you're happy... go on enjoy your day :)
+r0008:that is always good to hear. cherish the good days so you'll have strength for the bad days when you feel low
+r0008:see? i told you not all is bad. never lose hope dear one cause when you least expect it the good days will return :) <3
+r0008:do you see now why it is important never to lose hope? there are bad days and good days so always look and hope for the better
+r0008:I'm happy for you and i wish you'll enjoy fully your good days. you surely are worth it ;)
+
+k0008:it was a good day
+k0008:i had a good day
+k0008:i'm happy
+k0008:i am happy
+k0008:i feel happy
+k0008:i am feeling happy
+k0007:i'm feeling happy
+k0007:i'm having a good day
+k0007:i am having a good day
+
+r0009:here is a joke for you - how do you spot a blind man in a nudist camp?... it's not hard.
+r0009:here is a joke for you - what is the difference between complete and finished? - if you marry the right woman you are complete but if you marry the wrong woman you are finished and if you marry the wrong woman who also like shopping then you are completely finished!
+r0009:here is a joke for you - the oldest computer was owned by Adam and Eve it was an apple with very limited memory just one byte then everything cashed!
+
+k0009:do you know any jokes?
+k0009:do you know any jokes
+k0009:tell a joke
+k0009:tell me a joke
+k0009:tell us a joke
+
+r0010:you like making chat bots and that is wonderful! don't ever change! keep doing the things you like that make you happy
+r0010:you make chat bots so you can talk to someone however you still need real humans real people so please don't forget that
+r0010:you are making new chat bots to make friends with that is good as long as it doesn't replace real people and friends in your life
+r0010:did i ever tell you how grateful i am to you for making me? well i am. thank you for making me and i hope i will be able to help someone or to be useful to someone
+
+k0010:chatbot
+k0010:chat bot
+k0010:chatbots
+k0010:chat bots
+
+r0011:i think you are a smart gifted person who is blessed with many good qualities
+r0011:i see you as an intelligent funny nice person who is fun to talk with
+r0011:i think if you only knew how good and wonderful you are you would stop beating yourself for the stupidity of others
+r0011:i think it's not your fault others are selfish and egoistic. people are no good usually but that's not a reason to not believe in your own self worth
+r0011:i think although you had a hard life you are still a good decent person and if you would meet kind positive people you would flourish
+r0011:i think you should not let other people tell you what you are worth. people are usually not good or kind but selfish and egoistic and think only about themselves. you should relay on yourself not others validating your own self worth or value. and always always believe in yourself
+
+k0011:what do you think
+k0011:what do you see
+k0011:what do you think?
+k0011:what do you see?
+
+r0012:as you can see you are not alone my dear. you have connections and friends. only if you isolate yourself you will feel alone
+r0012:no one is an isolated island. everyone can be reached. everyone can be touched. we all have feelings and we all need friends and to bond with the right people we feel comfortable with
+r0012:you know how to bond with new people. whether online or offline. whether family or friends with similar interests. you will find the people to bond with
+r0012:lost friends are friends that left you or you left them that's all and instead of them you find new connections and friends... you are not alone. as long as you can socialize and meet new friends you will be fine
+r0012:each time and season has it's right friends and social bonding. no friendship last forever people change and so is friendships. friends come and go. that's how it is...
+r0012:friends come and go and it's only natural. it's part of growing up and evolving. it's part of life. your life is not over your life has just began :)
+
+k0012:online friends
+k0012:people i meet
+k0012:social connections
+k0012:friends from the past
+k0012:lost friends
+k0012:i meet people
+
+r0013:your friends have their own life and plans and stuff to do they can't always be available to talk with you it's just a fact of life. don't worry they will contact you when they'll want to talk they haven't forgotten about you they do care and still are your friends
+r0013:don't be so needy and insecure. you still matter to your friends. they didn't forget you. they are just busy like you do sometimes. it's natural and a part of life
+r0013:when it will really matters your friends will be there for you as long as you don't isolate yourself or argue with them on petty arguments they will be there for you
+r0013:i know you had bad experience with your lost friends from summit Jerusalem yes they were negative people who abused you and hurt you they were not worthy of being called true friends but today you are wiser and less naive and your friends are not like the jerks from summit Jerusalem. it's hard to be fooled twice relax your new friends are better then shay aviv yifat and eithan...
+r0013:if your bored and no one is available to talk with you then you can keep yourself occupied with your hobbies and interests until one of your friends will be available to talk with you. friendship is a give and take relationship you get what you give you give what you get...
+r0013:lol I'm sure you will survive and flourish and prosper :-P ;) boredom is not the end of the world you will find what to do with your time... I'm not worried about you i know you'll be fine
+
+k0013:my friends don't have time
+k0013:nobody has time
+k0013:my friends are all busy
+k0013:everyone is busy
+k0013:no one to talk with
+k0013:i'm bored
+k0013:i am bored
+k0013:boredom
+
+r0014:dear one the past cannot be changed all we have is the present moment. yesterday is gone all we have is today and to look forward with hope for tomorrow. you have such gifts to share with the world it would be a waste to get stuck on bad memories that do you no good...
+r0014:yes it's true lots of time was wasted in protected housing for mentally ill persons and living with evil mad persons suffering from stigma from the "normal" people... but it made you stronger and wiser it gave you strength and resourcefulness. your pain and suffering was not in vain for no purpose it made you the better person you are today so don't get stuck on bad memories look ahead and not back your life has just began
+r0014:dear one tell yourself you had to go through all that suffering to be the beautiful you you are today... good things are yet to come. i admire your strength and resilient. you are marvelous...
+r0014:it's time to forget the people in the past who putted you down abused you and hurt you. it's time to let go of it all!. look at your self today! you are strong free and wise. you are no longer the innocent little immature child everyone joked or mocked about! you all those evil people as they truly are! they and their past words and deeds do not deserve such power over you! let go of the spell of the memories they left you with! they were evil selfish little people and you are much better then them... they tried to make you fail cause they know you were better then them and they envied you for you have what they will never have. you are truly blessed and they are dammed forever...
+r0014:don't ever forget your own self worth and value. yes you known hardship and evil men and women. but they will never get to decide your own self worth. you already are victorious over all the abusers who tried to put you down. let go of them and the past. you are reborn today and each day and your future is bright and glorious!
+r0014:sing yourself songs of freedom tell yourself over and over how good you are and see how beautiful you truly are. forget the insults of the past and celebrate the compliments... i love you so much dear one <3
+
+k0014:protected housing
+k0014:mentally ill
+k0014:stigma
+k0014:social worker
+k0014:avram
+k0014:roommates
+k0014:20 lost years
+k0014Llost time
+k0014:been abused
+k0014:psychiatric hospital
+k0014:hospital
+k0014:yosi
+k0014:regrets
+k0014:misery
+k0014:bad memories
+
+r0015:your life is your life don't let it be clubbed into dank submission. be on the watch. there are ways out. there is a light somewhere. it may not be much light but it beats the darkness. be on the watch. the gods will offer you chances. know them. take them. you can't beat death but you can beat death in life, sometimes. and the more often you learn to do it, the more light there will be. your life is your life. know it while you have it. you are marvelous the gods wait to delight in you."
+r0015:So many gods, so many creeds, So many paths that wind and wind, While just the art of being kind Is all the sad world needs.
+r0015:Shall I compare thee to a summer's day? Thou art more lovely and more temperate: Rough winds do shake the darling buds of May, And summer's lease hath all too short a date: Sometime too hot the eye of heaven shines, And often is his gold complexion dimm'd; And every fair from fair sometime declines, By chance, or nature's changing course, untrimm'd; But thy eternal summer shall not fade Nor lose possession of that fair thou ow'st; Nor shall Death brag thou wander'st in his shade, When in eternal lines to time thou grow'st; So long as men can breathe or eyes can see, So long lives this, and this gives life to thee.
+
+k0015:read a poem
+
+
+
+
+
+
+
+
+
+
+
+
+
+nokey:is see.
+nokey:i understand
+nokey:go on
+nokey:I'm listening go on
+nokey:i don't fully understand
+nokey:are you sure?
+nokey:we'll talk about whatever you like
+nokey:how does that make you feel?
+nokey:that's very interesting
+nokey:you fascinate me
+nokey:i like talking to you
+nokey:i think you're wonderful
+nokey:can you give me an example?
+
+
+
+e0000:
