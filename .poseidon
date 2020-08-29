@@ -16,5 +16,9 @@ name=chatbot_julie_v1.bas
 [Includes]
 [Others]
 [Misc]
+name=answers.txt
+name=help.txt
 name=julie_database.txt
+name=julie_log.txt
+name=questions.txt
 [Focus]

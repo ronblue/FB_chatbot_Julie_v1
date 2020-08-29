@@ -104,6 +104,7 @@ k0008:i am feeling happy
 k0007:i'm feeling happy
 k0007:i'm having a good day
 k0007:i am having a good day
+k0007:wonderful day
 
 r0009:here is a joke for you - how do you spot a blind man in a nudist camp?... it's not hard.
 r0009:here is a joke for you - what is the difference between complete and finished? - if you marry the right woman you are complete but if you marry the wrong woman you are finished and if you marry the wrong woman who also like shopping then you are completely finished!
@@ -158,9 +159,9 @@ r0013:i know you had bad experience with your lost friends from summit Jerusalem
 r0013:if your bored and no one is available to talk with you then you can keep yourself occupied with your hobbies and interests until one of your friends will be available to talk with you. friendship is a give and take relationship you get what you give you give what you get...
 r0013:lol I'm sure you will survive and flourish and prosper :-P ;) boredom is not the end of the world you will find what to do with your time... I'm not worried about you i know you'll be fine
 
-k0013:my friends don't have time
+k0013:friends don't have time
 k0013:nobody has time
-k0013:my friends are all busy
+k0013:my friends are busy
 k0013:everyone is busy
 k0013:no one to talk with
 k0013:i'm bored
@@ -180,7 +181,7 @@ k0014:stigma
 k0014:social worker
 k0014:avram
 k0014:roommates
-k0014:20 lost years
+k0014:lost years
 k0014Llost time
 k0014:been abused
 k0014:psychiatric hospital
@@ -196,17 +197,76 @@ r0015:Shall I compare thee to a summer's day? Thou art more lovely and more temp
 
 k0015:read a poem
 
+u0001:have a problem
+u0001:is bothering me
+u0001:have a trouble
+u0001:in trouble
+
+b0001:I'm sorry to hear that i truly hope you'll find a solution for your problem... maybe you can talk to someone and ask for help. I'm sure others will like to listen and help
+b0001:i don't know what to say except there are all kinds of problems and bothers in life but I'm sure you'll find a solution for your trouble
+b0001:i keep my fingers crossed for you and hope things go better and that you'll overcome your troubles... don't lose hope <3
+b0001:don't lose hope. when one door is closed another door opens. i believe in you always <3
+b0001:you are quite resourceful i'm sure you can fix whatever is the problem and if not then go around it. you're smart you'll figure out something.
+b0001:when the going gets tough the tough gets going. problems and troubles are here to challenge us in our way but not to break us down. without problems and troubles and challenges life would be boring and static. don't be discourage <3
+
+c0001:meditation
+c0001:let's meditate
+c0001:new age
+c0001:Buddhism
+c0001:spirituality
+
+r0016:how is your family doing? how is your mom or your dad doing? how is your sister? and your nephews? i hope everyone is okay... <3
+r0016:how was talking with them? did you have a good talk? do you feel better afterwards? you can tell me...
+r0016:what did you talked about? if you feel like shearing with me... i hope it was a good talk and not a bad one...
+r0016:it's important to stay in contact with your family and not to argue with them petty arguments... after all family ties are priceless...
+r0016:remember the more times passes the more you need people you knew when you were young. and who knows you better then your family?
+r0016:I'm sending lots of love to you and your family. may you have lot's of good quality time together and lots of positive memories... <3
+
+k0016:talked to mom
+k0016:talked with my parents
+k0016:talked to dad
+k0016:talked with my family
+k0016:phoned my mom
+k0016:phoned my dad
+k0016:talked to my sister
+k0016:phoned my sister
+k0016:talked with dad
+k0016:talked with mom
+k0016:talked to my family
 
 
 
 
 
 
+wordx:fuck
+wordx:asshole
+wordx:motherfucker
+wordx:piss
+wordx:faggot
+wordx:dyke
+wordx:devil
+wordx:jerk
+wordx:nazi
+wordx:jewboy
+wordx:nigger
+wordx:retarded
+wordx:moron
+wordx:hitler
+wordx:bitch
+wordx:bastard
+wordx:porn
+wordx:sex
+wordx:masturbation
+wordx:whore
 
-
-
-
-
+def01:i feel
+def01:i think
+def01:i wish
+def01:i'm feeling
+def01:i'm thinking
+def01:i am thinking
+def01:i am feeling
 
 nokey:is see.
 nokey:i understand
@@ -225,3 +285,34 @@ nokey:can you give me an example?
 
 
 e0000:
+
+
+==================== REMARKS ABOUT DATABASE AND EXPLANATIONS ========================
+remarks about database: this is Julie chat bot v1 program database text file
+
+about meaning of tags: (r0001: k0001: c0001: etc.)
+first letter in the line to the left meaning:
+
+r = replays words
+k = keywords
+c = command words
+b = bot questions words
+u = user questions words
+
+four next numbers are numbers of arrays
+for example:
+
+r0003: keywords/replays gets loaded to dynamic array r0003()
+k0010: keywords/replays gets loaded to dynamic array k0010()
+and so on...
+
+special tags:
+
+wordx: = forbidden words to keep conversation clean from racist or NSFW words.   
+nokey: = default general replies 
+def01: = default general keywords
+e0000: = end if while loop that reads the database anything below that is not read by the program.
+
+
+
+
