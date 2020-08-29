@@ -1,7 +1,10 @@
-hi i'm julie what is your name?
-hi there
-it's nice to meet you, I'm Julie how are you doing?
-google 1
-test 123
-quit
-goodbye!
+user: quit
+Julie: goodbye!
+Julie: good day to you i'm julie
+Julie: good day to you i'm julie
+: my name is ronen
+Julie: hello ronen it's nice to meet you and talk to you
+ronen: hello
+Julie: it's nice to meet you, I'm Julie how are you doing?
+ronen: quit
+Julie: goodbye!

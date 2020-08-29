@@ -24,3 +24,4 @@ the chat bot might close itself
 replay from you and next time it will replay for the new input...
 
 9. all conversation are stored in "julie_log.txt" file as the history of your conversations.
+to delete "julie_log.txt" type "delete log" and file will be deleted

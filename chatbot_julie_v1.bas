@@ -16,7 +16,7 @@ CONST AS STRING julielog = "julie_log.txt"
 DIM SHARED AS STRING user, problem
 DIM SHARED AS BOOLEAN isUserQuestion = true
 DIM SHARED AS STRING botQuestions
-user = ""
+user = "user"
 problem = ""
 DIM SHARED TTSvoice as STRING
 TTSvoice = "Microsoft Zira Desktop" 'tts female or male voice (or Zira or David)
@@ -291,14 +291,14 @@ loadQA()
 start:
 speak start(INT(RND*(UBOUND(start)+1)))
 DO
-IF user = "" THEN
-INPUT "> ", txt: PRINT
-ELSE
-LINE INPUT user & ": ", txt: PRINT
-END IF
+'IF user = "" THEN
+LINE INPUT user + ": ", txt: PRINT
+'ELSE
+'LINE INPUT user & ": ", txt: PRINT
+'END IF
 txt = LCASE(txt)
 OPEN julielog FOR APPEND AS #h
-PRINT #h, "user: " + txt
+PRINT #h, user + ": " + txt
 CLOSE #h
 IF checkArray(wordx(), txt) THEN
 	IF xword = 0 THEN
@@ -314,6 +314,11 @@ IF checkArray(wordx(), txt) THEN
 ELSEIF txt = "sorry" THEN
 	speak "ok i forgive you"
 	xword = 0
+ELSEIF txt = "delete log" THEN
+	Dim result As Integer = Kill( julielog )
+	If result <> 0 Then Print "error trying to kill " ; julielog ; " !"
+	OPEN julielog FOR APPEND AS #h
+	CLOSE #h
 elseIF checkArray(c0001(), txt) THEN
 	SHELL("start https://www.youtube.com/watch?v=6m4k0yEqvsw&list=PLkzq0nWDbWl_ll2rQo8JWxhPh0_t5Ld9t&index=2&t=48s")
 ELSEIF INSTR(txt, "my name is ") THEN
