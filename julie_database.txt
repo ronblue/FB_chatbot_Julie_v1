@@ -221,6 +221,10 @@ r0016:what did you talked about? if you feel like shearing with me... i hope it 
 r0016:it's important to stay in contact with your family and not to argue with them petty arguments... after all family ties are priceless...
 r0016:remember the more times passes the more you need people you knew when you were young. and who knows you better then your family?
 r0016:I'm sending lots of love to you and your family. may you have lot's of good quality time together and lots of positive memories... <3
+r0016:how do you feel about your family and friends? how do you feel about the people who are the closest to you? i know that human connection can be challenging sometimes but it is good to have them despite the hardship
+r0016:i know family and friends is a touchy subject to you... you love them but you have bad memories and experience or negative feeling towards them like some unfinished business that never get to be settled... forgive then forgive yourself and keep loving then although neither you nor them are perfect... the only think that can be perfect is your love to them
+r0016:i know you often feel like you and your dear ones never really talk about whats important. that your mom and dad ignore your feelings and what you want and feel as if it's not important. or that your friends are emotionally crippled or that they just pretend to care but not really there for you when you truly need them... what can i say? human connections are hard and complex. no one is perfect neither are you...
+r0016:what ever disappointment you have from your family sister or friends just remember that although not perfect they do stick with you when your down or up and that they do care and love you in their way. please don't be angry over them for not changing. instead of waiting in vain for them to change try accepting them as they are with their limitations. i know it's hard yet it's the only way possible...
 
 k0016:talked to mom
 k0016:talked with my parents
@@ -233,6 +237,9 @@ k0016:phoned my sister
 k0016:talked with dad
 k0016:talked with mom
 k0016:talked to my family
+
+
+
 
 
 
@@ -300,10 +307,13 @@ b = bot questions words
 u = user questions words
 
 four next numbers are numbers of arrays
+
 for example:
 
-r0003: keywords/replays gets loaded to dynamic array r0003()
-k0010: keywords/replays gets loaded to dynamic array k0010()
+r0003: replays gets loaded to dynamic array r0003()
+k0010: keywords gets loaded to dynamic array k0010()
+r0009: replays gets loded to dynamic array r0009()
+k0005: keywords get loaded to dynamic array k0005()
 and so on...
 
 special tags:
@@ -311,7 +321,7 @@ special tags:
 wordx: = forbidden words to keep conversation clean from racist or NSFW words.   
 nokey: = default general replies 
 def01: = default general keywords
-e0000: = end if while loop that reads the database anything below that is not read by the program.
+e0000: = end of while loop that reads the database anything below that is not read by the program.
 
 
 
