@@ -36,3 +36,27 @@ Julie: hello there i'm julie the chatbot
 user: let's meditate
 user: quit
 Julie: goodbye!
+Julie: hello i'm julie how are you?
+user: hello
+Julie: it's nice to meet you, I'm Julie how are you doing?
+user: my name is ronen
+Julie: hello ronen it's nice to meet you and talk to you
+ronen: --help
+Julie: hi i'm julie the chatbot
+ronen: 
+Julie: 
+ronen: hi i'm ok
+Julie: i'm glad to hear that but is it good ok or bad ok?
+ronen: hi i'm ok
+Julie: i'm glad to hear that but is it good ok or bad ok?
+ronen: something is bothering me
+Julie: what is bothering you ronen?
+ronen: being alone
+Julie: i'm sorry that being alone is bothering you dear ronen
+Julie: I'm sorry to hear that i truly hope you'll find a solution for your problem... maybe you can talk to someone and ask for help. I'm sure others will like to listen and help
+ronen: can you tell a joke?
+Julie: here is a joke for you - what is the difference between complete and finished? - if you marry the right woman you are complete but if you marry the wrong woman you are finished and if you marry the wrong woman who also like shopping then you are completely finished!
+ronen: van you read a poem?
+Julie: Shall I compare thee to a summer's day? Thou art more lovely and more temperate: Rough winds do shake the darling buds of May, And summer's lease hath all too short a date: Sometime too hot the eye of heaven shines, And often is his gold complexion dimm'd; And every fair from fair sometime declines, By chance, or nature's changing course, untrimm'd; But thy eternal summer shall not fade Nor lose possession of that fair thou ow'st; Nor shall Death brag thou wander'st in his shade, When in eternal lines to time thou grow'st; So long as men can breathe or eyes can see, So long lives this, and this gives life to thee.
+ronen: quit
+Julie: goodbye!
