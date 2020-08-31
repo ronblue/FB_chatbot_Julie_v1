@@ -54,6 +54,10 @@ CLOSE #h
 
 END SUB
 
+Sub SleepEx()
+  sleep
+  While Inkey <> "":Wend
+end sub
 
 SUB loadArrays(filename AS STRING)
 DIM h AS INTEGER = FREEFILE()
@@ -170,7 +174,7 @@ SUB txtfile(f AS STRING)
 	GET #h ,  , buffer
 	CLOSE #h
 	PRINT buffer
-	SLEEP
+	sleepex()
 	CLS
 End SUB
 
