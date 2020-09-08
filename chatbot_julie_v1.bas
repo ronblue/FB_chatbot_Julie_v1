@@ -286,7 +286,10 @@ END SUB
 
 
 SUB main()
-
+Dim Start1 As Double
+Dim TimeUp as Double
+Start1 = Timer
+TimeUp = Start1 + (60 * 60)
 DIM h AS LONG = FREEFILE()
 DIM txt AS STRING, rply AS STRING, searchTopic AS STRING
 DIM AS STRING start(0 TO 5) = {"hello there i'm julie the chatbot", "hi i'm julie the chatbot", "hi i'm julie what is your name?", "good day to you i'm julie","hello i'm julie how are you?", "hello i'm julie nice to meet you let's talk"}
@@ -320,8 +323,16 @@ ELSEIF txt = "sorry" THEN
 	xword = 0
 ELSEIF txt = "delete log" THEN
 	Dim result As Integer = Kill( julielog )
+	Dim result2 As Integer = Kill( answers )
+	Dim result3 As Integer = Kill( questions )
 	If result <> 0 Then Print "error trying to kill " ; julielog ; " !"
+	If result2 <> 0 Then Print "error trying to kill " ; answers ; " !"
+	If result3 <> 0 Then Print "error trying to kill " ; questions ; " !"
 	OPEN julielog FOR APPEND AS #h
+	CLOSE #h
+	OPEN answers FOR APPEND AS #h
+	CLOSE #h
+	OPEN questions FOR APPEND AS #h
 	CLOSE #h
 elseIF checkArray(c0001(), txt) THEN
 	SHELL("start https://www.youtube.com/watch?v=6m4k0yEqvsw&list=PLkzq0nWDbWl_ll2rQo8JWxhPh0_t5Ld9t&index=2&t=48s")
@@ -347,7 +358,8 @@ ELSEIF isUserQuestion = FALSE THEN
 	botQuestion(txt)
 	
 END IF
-LOOP UNTIL txt = "quit"
+
+LOOP UNTIL txt = "quit" OR TIMER >= TimeUp
 
 END SUB
 

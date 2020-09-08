@@ -1,96 +1,10 @@
-Julie: hello i'm julie nice to meet you let's talk
-user: hi there
-Julie: hi, I'm Julie. how are you?
-user: i'm fine
-Julie: what is your favorite color?
-user: my favorite color is blue
-Julie: my favorite color is yellow
-user: my name is ronen
-Julie: hello ronen it's nice to meet you and talk to you
-ronen: my social worker didn't came today to visit me
-Julie: sing yourself songs of freedom tell yourself over and over how good you are and see how beautiful you truly are. forget the insults of the past and celebrate the compliments... i love you so much dear one <3
-ronen: let's meditate
-ronen: i hate my social worker and my staff they don't care
-Julie: dear one tell yourself you had to go through all that suffering to be the beautiful you you are today... good things are yet to come. i admire your strength and resilient. you are marvelous...
-ronen: i live by myself alone
-Julie: it could have been worse. you could have be still in protected housing with bad roommates you hate that make you misrable
-ronen: thank god i'm not in protected housing anymore
-Julie: it's time to forget the people in the past who putted you down abused you and hurt you. it's time to let go of it all!. look at your self today! you are strong free and wise. you are no longer the innocent little immature child everyone joked or mocked about! you all those evil people as they truly are! they and their past words and deeds do not deserve such power over you! let go of the spell of the memories they left you with! they were evil selfish little people and you are much better then them... they tried to make you fail cause they know you were better then them and they envied you for you have what they will never have. you are truly blessed and they are dammed forever...
-ronen: i've talked with my mom and talked with my sister on the weekend on the phone we had good talks
-Julie: how is your mom and sister doing?
-ronen: my mom ans sister are okay i guess my mom kept asking me if i bade and i lied :(
-Julie: you mean bathed no?
-ronen: yes
-Julie: and how do you feel about it?
-ronen: i'm sorry that i'm dissapointing my mom and dad
-Julie: why do you think that?
-ronen: --help
-Julie: hello i'm julie nice to meet you let's talk
-ronen: 
-Julie: 
-ronen: i am alone
-Julie: you are now talking to me so you are not completely alone
-ronen: quit
-Julie: goodbye!
-Julie: hello there i'm julie the chatbot
-user: let's meditate
 user: quit
 Julie: goodbye!
-Julie: hello i'm julie how are you?
-user: hello
-Julie: it's nice to meet you, I'm Julie how are you doing?
-user: my name is ronen
-Julie: hello ronen it's nice to meet you and talk to you
-ronen: --help
 Julie: hi i'm julie the chatbot
-ronen: 
-Julie: 
-ronen: hi i'm ok
-Julie: i'm glad to hear that but is it good ok or bad ok?
-ronen: hi i'm ok
-Julie: i'm glad to hear that but is it good ok or bad ok?
-ronen: something is bothering me
-Julie: what is bothering you ronen?
-ronen: being alone
-Julie: i'm sorry that being alone is bothering you dear ronen
-Julie: I'm sorry to hear that i truly hope you'll find a solution for your problem... maybe you can talk to someone and ask for help. I'm sure others will like to listen and help
-ronen: can you tell a joke?
-Julie: here is a joke for you - what is the difference between complete and finished? - if you marry the right woman you are complete but if you marry the wrong woman you are finished and if you marry the wrong woman who also like shopping then you are completely finished!
-ronen: van you read a poem?
-Julie: Shall I compare thee to a summer's day? Thou art more lovely and more temperate: Rough winds do shake the darling buds of May, And summer's lease hath all too short a date: Sometime too hot the eye of heaven shines, And often is his gold complexion dimm'd; And every fair from fair sometime declines, By chance, or nature's changing course, untrimm'd; But thy eternal summer shall not fade Nor lose possession of that fair thou ow'st; Nor shall Death brag thou wander'st in his shade, When in eternal lines to time thou grow'st; So long as men can breathe or eyes can see, So long lives this, and this gives life to thee.
-ronen: quit
-Julie: goodbye!
-Julie: hello i'm julie nice to meet you let's talk
-user: --help
-Julie: hi i'm julie what is your name?
 user: hi there
 Julie: hi, I'm Julie. how are you?
 user: quit
 Julie: goodbye!
-Julie: hello i'm julie how are you?
-user: my name is ronen
-Julie: hello ronen it's nice to meet you and talk to you
-ronen: --help
-Julie: hello there i'm julie the chatbot
-ronen: tell a joke
-Julie: here is a joke for you - how do you spot a blind man in a nudist camp?... it's not hard.
-ronen: read a poem
-Julie: So many gods, so many creeds, So many paths that wind and wind, While just the art of being kind Is all the sad world needs.
-ronen: avram
-Julie: it's time to forget the people in the past who putted you down abused you and hurt you. it's time to let go of it all!. look at your self today! you are strong free and wise. you are no longer the innocent little immature child everyone joked or mocked about! you all those evil people as they truly are! they and their past words and deeds do not deserve such power over you! let go of the spell of the memories they left you with! they were evil selfish little people and you are much better then them... they tried to make you fail cause they know you were better then them and they envied you for you have what they will never have. you are truly blessed and they are dammed forever...
-ronen: stigma
-Julie: dear one tell yourself you had to go through all that suffering to be the beautiful you you are today... good things are yet to come. i admire your strength and resilient. you are marvelous...
-ronen: i'm doing fine
-Julie: good to hear that!
-ronen: i had a bad day
-Julie: love is all you need. love will heal the wounds
-ronen: i talk with mom
-Julie: how is your mother doing?
-ronen: i talked with mom
-Julie: how do you feel about your family and friends? how do you feel about the people who are the closest to you? i know that human connection can be challenging sometimes but it is good to have them despite the hardship
-ronen: i had a good day
-Julie: I'm happy for you and i wish you'll enjoy fully your good days. you surely are worth it ;)
-ronen: roommates
-Julie: yes it's true lots of time was wasted in protected housing for mentally ill persons and living with evil mad persons suffering from stigma from the "normal" people... but it made you stronger and wiser it gave you strength and resourcefulness. your pain and suffering was not in vain for no purpose it made you the better person you are today so don't get stuck on bad memories look ahead and not back your life has just began
-ronen: quit
-Julie: goodbye!
+Julie: hi i'm julie the chatbot
+user: hi there
+Julie: hello, I'm Julie... nice to meet you :)
