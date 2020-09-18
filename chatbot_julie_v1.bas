@@ -334,6 +334,8 @@ ELSEIF txt = "delete log" THEN
 	CLOSE #h
 	OPEN questions FOR APPEND AS #h
 	CLOSE #h
+	REDIM ans() AS STRING
+	REDIM ques() AS STRING
 elseIF checkArray(c0001(), txt) THEN
 	SHELL("start https://www.youtube.com/watch?v=6m4k0yEqvsw&list=PLkzq0nWDbWl_ll2rQo8JWxhPh0_t5Ld9t&index=2&t=48s")
 ELSEIF INSTR(txt, "my name is ") THEN

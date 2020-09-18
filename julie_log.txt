@@ -1,10 +1,4 @@
+user: new data
+Julie: hi dude
 user: quit
 Julie: goodbye!
-Julie: hi i'm julie the chatbot
-user: hi there
-Julie: hi, I'm Julie. how are you?
-user: quit
-Julie: goodbye!
-Julie: hi i'm julie the chatbot
-user: hi there
-Julie: hello, I'm Julie... nice to meet you :)
