@@ -6,6 +6,7 @@ REDIM SHARED AS STRING r0002(0), k0002(0), r0003(0), k0003(0), r0004(0), k0004(0
 REDIM SHARED AS STRING r0007(0), k0007(0), r0008(0), k0008(0), r0009(0), k0009(0), r0010(0), k0010(0), nokey(0)
 REDIM SHARED AS STRING r0011(0), k0011(0), r0012(0), k0012(0), r0013(0), k0013(0), r0014(0), k0014(0), r0015(0), k0015(0)
 REDIM SHARED AS STRING u0001(0), b0001(0), c0001(0), r0016(0), k0016(0), wordx(0), def01(0)
+REDIM SHARED AS STRING line1(0), line2(0), line3(0), line4(0), line5(0), line6(0), line7(0), line8(0), line9(0), line0(0)
 
 REDIM SHARED AS STRING ans(0), ques(0)
 
@@ -141,9 +142,26 @@ WHILE NOT EOF(h)
 		sAppend def01(), TRIM(MID(fline, 7))
 		CASE "wordx:"
 		sAppend wordx(), TRIM(MID(fline, 7))
-		
-		
-		
+		CASE "line0:"
+		sAppend line0(), TRIM(MID(fline, 7))
+		CASE "line1:"
+		sAppend line1(), TRIM(MID(fline, 7))
+		CASE "line2:"
+		sAppend line2(), TRIM(MID(fline, 7))
+		CASE "line3:"
+		sAppend line3(), TRIM(MID(fline, 7))
+		CASE "line4:"
+		sAppend line4(), TRIM(MID(fline, 7))
+		CASE "line5:"
+		sAppend line5(), TRIM(MID(fline, 7))
+		CASE "line6:"
+		sAppend line6(), TRIM(MID(fline, 7))
+		CASE "line7:"
+		sAppend line7(), TRIM(MID(fline, 7))
+		CASE "line8:"
+		sAppend line8(), TRIM(MID(fline, 7))
+		CASE "line9:"
+		sAppend line9(), TRIM(MID(fline, 7))
 		
 		
 		CASE "nokey:"
@@ -221,7 +239,12 @@ FOR i AS INTEGER = 0 TO UBOUND(ans)
 	
 END SUB
 
-
+SUB poemGenerator()
+	speak line0(INT(RND*(UBOUND(line0))+1)) & " " & line1(INT(RND*(UBOUND(line1))+1)) & " " & line2(INT(RND*(UBOUND(line2))+1)) & _
+	" " & line3(INT(RND*(UBOUND(line3))+1)) & " " & line4(INT(RND*(UBOUND(line4))+1)) & " " & line5(INT(RND*(UBOUND(line5))+1)) & _
+	" " & line6(INT(RND*(UBOUND(line6))+1)) & " " & line7(INT(RND*(UBOUND(line7))+1)) & " " & line8(INT(RND*(UBOUND(line8))+1)) & _
+	" " & line9(INT(RND*(UBOUND(line9))+1))
+END SUB
 
 
 SUB userQuestion(txt AS STRING)
@@ -357,6 +380,8 @@ ELSEIF INSTR(txt, "more time") THEN
 	Start1 = Timer
 	TimeUp = Start1 + (60 * 60)
 	speak "session countdown has been restarted now " & STR(INT((TimeUp -TIMER) / 60)) & "minutes till session is over"
+ELSEIF INSTR(txt, "write a poem") THEN
+	poemGenerator()
 ELSEIF checkArray(u0001(), txt) THEN
 	speak "what is bothering you " & user & "?"
 	botQuestions = "bother"

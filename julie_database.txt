@@ -289,7 +289,45 @@ nokey:i like talking to you
 nokey:i think you're wonderful
 nokey:can you give me an example?
 
+line0:swing moods like a storm at sea rocks me like a ship looking for a safe harbor
+line0:in the dark of night i am awaken to search for a ray of hope despite past failures and misery i still hang on to hope
+line0:broken heart in the dark i sit and wait with tears in my eyes looking for some comfort 
 
+line1:in my darkest hour the guides of the gate will not let me down
+line1:i seek guldens from above... i fight my anger i hold my tears and i hug my fears
+line1:they say there is hope out there in this world but i have wasted the best years of my life and yet... still believing like a child in fairy tales of wonder
+line1:my lungs are smoked and choked with poisoned feeling of unworthiness my heart burns from anger my mind is filled with hysteria and fear... my past is drowning in tears   
+
+line2:above and beyond there is a light somewhere that says "you are blessed and able to this life make something out of it"
+line2:how long shell the darkness rule the land? how much more shell ignorance be of any use to mankind? 
+line2:where are my beloveds? where are the promises of a better life or future? seems like river of lies river of tears
+
+line3:i fight my doubts my fears my sadness i remain salient while the evilness of the world dance it's nightmare before me
+line3:i light a fire in my heart i am as a light house to my soul
+line3:darkness turns to dawn as the winds of change change once more
+
+line4:with a fist of wrath i brake down my cage and open a path to my soul
+line4:my will is pure as my soul... i open to love and it will not fail me
+line4:i close my eyes and think of other times of childhood when the sun promised me eternity
+
+line5:men and women may hurt me and betray me sticks and stones may brake my bones yet love will not forget me
+line5:forget anger leave fear and sadness behind you do not need it in the face of love
+line5:i cray my heart out but do not give in... tears can be proud and honored in the realm of compassion
+
+line6:where there was loneliness there is now a party where there was pain now there is pleasure where there was ugliness now there is beauty you are worthy of love
+line6:love from above will come to remind me of all that is worth living for
+line6:all is full of love says the song on and on and we are all blind to see... ignorance is not a bliss
+
+line7:as the sun rises and northern star leads the wheel of wind to a mild tune i see my harbor i can see my home again
+line7:the morning has broken with all of it's glory i thank my courage not to give up and not to give in for there is still beauty love hope and goodness in this world this heart and this life
+line7:my mother's smile my father's hug my grandma food... i remember those like a dream i dreamed yesterday beyond the fug of forgetfulness 
+
+line8:beautiful day as the ship anchors at port safe and sound i am again at home
+line8:safe in the arms of love i look as a child on the world
+line8:i sit and do nothing i fall asleep and wake up in the morning... when the night has gone and the sun shines and the birds sing
+
+line9:i say the glory of life on my lips
+line9:hallelujah!
 
 e0000:
 
