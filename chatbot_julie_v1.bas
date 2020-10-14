@@ -321,7 +321,7 @@ IF checkArray(wordx(), txt) THEN
 ELSEIF txt = "sorry" THEN
 	speak "ok i forgive you"
 	xword = 0
-ELSEIF txt = "delete log" THEN
+ELSEIF txt = "--delete log" THEN
 	Dim result As Integer = Kill( julielog )
 	Dim result2 As Integer = Kill( answers )
 	Dim result3 As Integer = Kill( questions )
@@ -336,8 +336,10 @@ ELSEIF txt = "delete log" THEN
 	CLOSE #h
 	REDIM ans() AS STRING
 	REDIM ques() AS STRING
+	speak "all databases have been erased!"
 elseIF checkArray(c0001(), txt) THEN
-	SHELL("start https://www.youtube.com/watch?v=6m4k0yEqvsw&list=PLkzq0nWDbWl_ll2rQo8JWxhPh0_t5Ld9t&index=2&t=48s")
+'	SHELL("start https://www.youtube.com/watch?v=6m4k0yEqvsw&list=PLkzq0nWDbWl_ll2rQo8JWxhPh0_t5Ld9t&index=2&t=0s")
+	SHELL("start https://youtu.be/6m4k0yEqvsw")
 ELSEIF INSTR(txt, "my name is ") THEN
 	user = TRIM(MID(txt, 12))
 	speak "hello " & user & " it's nice to meet you and talk to you"
@@ -349,7 +351,12 @@ ELSEIF txt = "--help" THEN
 ELSEIF INSTR(txt, "search google for ") THEN
 	searchTopic = TRIM(MID(txt, 19))
 	shell("start https://www.google.com/search?q="+searchTopic)
-
+ELSEIF INSTR(txt, "time left") THEN
+	speak "time left " & STR(INT((TimeUp - TIMER) / 60 )) & " minutes till session is over"
+ELSEIF INSTR(txt, "more time") THEN
+	Start1 = Timer
+	TimeUp = Start1 + (60 * 60)
+	speak "session countdown has been restarted now " & STR(INT((TimeUp -TIMER) / 60)) & "minutes till session is over"
 ELSEIF checkArray(u0001(), txt) THEN
 	speak "what is bothering you " & user & "?"
 	botQuestions = "bother"
