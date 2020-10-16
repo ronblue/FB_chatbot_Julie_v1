@@ -1,3 +1,17 @@
 Julie: all databases have been erased!
 user: quit
 Julie: goodbye!
+Julie: good day to you i'm julie
+user: --help
+Julie: hello i'm julie nice to meet you let's talk
+user: quit
+Julie: goodbye!
+Julie: hello i'm julie nice to meet you let's talk
+user: write a poem
+Julie: in the dark of night i am awaken to search for a ray of hope despite past failures and misery i still hang on to hope. they say there is hope out there in this world but i have wasted the best years of my life and yet... still believing like a child in fairy tales of wonder. above and beyond there is a light somewhere that says "you are blessed and able to this life make something out of it". time passes slowly i fall asleep into a dream of tender where i forget who i am and i am once more a child of god. my will is pure as my soul... i open to love and it will not fail me. today i just surrender and accept my unworthiness my failures my imperfections and sit or lay down with the shame and blame and sorrow with all this. i surrender to hopelessness and take comfort in the abyss of nothingness. to day is just a bad day one of those days where nothing works... yet i remind myself that it's okay. there are times like that. all is full of love says the song on and on and we are all blind to see... ignorance is not a bliss. my mother's smile my father's hug my grandma food... i remember those like a dream i dreamed yesterday beyond the fug of forgetfulness. life is what you make of then each day each minute so i might as well try while i am here and able... no it will never be perfect this world is not perfect either so what?. i open my eyes and see the morning's bright light through the windows.
+user: my name is ronen
+Julie: hello ronen it's nice to meet you and talk to you
+ronen: time left
+Julie: time left 55 minutes till session is over
+ronen: quit
+Julie: goodbye!

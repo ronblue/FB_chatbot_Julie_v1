@@ -370,6 +370,7 @@ ELSEIF txt = "quit" THEN
 	speak "goodbye!"
 ELSEIF txt = "--help" THEN
 	txtfile("help.txt")
+	txtfile("help2.txt")
 	GOTO start
 ELSEIF INSTR(txt, "search google for ") THEN
 	searchTopic = TRIM(MID(txt, 19))

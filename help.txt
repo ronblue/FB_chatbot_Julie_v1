@@ -1,4 +1,4 @@
-					Julie help - command list
+					Julie help - command list p.1
 
 1. if you'll talk about new age or meditation or spirituality
 Julie will open a YouTube URL for a meditation in your browser
@@ -33,3 +33,4 @@ of chat time is one session peer day... you can check how much time is left to c
 typing "time left" and julie will tell you how many minutes is left till session is over
 you can add more time to the session (restart the countdown) by typing the command
 "more time"
+[press any key to next page...]
