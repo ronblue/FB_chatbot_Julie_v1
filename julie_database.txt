@@ -293,51 +293,61 @@ line0:swing moods like a storm at sea rocks me like a ship looking for a safe ha
 line0:in the dark of night i am awaken to search for a ray of hope despite past failures and misery i still hang on to hope.
 line0:broken heart in the dark i sit and wait with tears in my eyes looking for some comfort.
 line0:in my deepest despair i almost lost my will to live... trying to hold on to the passing of time looking passively at the clock round midnight.
+line0:goodbye near and far... my guitar is silent today so is my typewriter and my keyboard... i wish i was born deep in another time.
 
 line1:in my darkest hour the guides of the gate will not let me down.
 line1:i seek guldens from above... i fight my anger i hold my tears and i hug my fears.
 line1:they say there is hope out there in this world but i have wasted the best years of my life and yet... still believing like a child in fairy tales of wonder.
 line1:my lungs are smoked and choked with poisoned feeling of unworthiness my heart burns from anger my mind is filled with hysteria and fear... my past is drowning in tears.
-line1:stater stater mumble broken words as a sign of my shame of imperfection. self hatred blame shame anger all the hatred i got as a child returns to torment me trying to overkill my soul with darkness and pain.
+line1:stutter stutter mumble broken words as a sign of my shame of imperfection. self hatred blame shame anger all the hatred i got as a child returns to torment me trying to overkill my soul with darkness and pain.
+line1:i miss the 20th century before we became slaves to our technology... i miss simpler times with simpler things like the page printed with a typewriter. humble men and women and books instead of virtual insanity.
 
 line2:above and beyond there is a light somewhere that says "you are blessed and able to this life make something out of it".
 line2:how long shell the darkness rule the land? how much more shell ignorance be of any use to mankind?.
 line2:where are my beloveds? where are the promises of a better life or future? seems like river of lies river of tears.
 line2:no tender love no kind compassion just bitter hate and sorrow for you natures broken creation the weakest of the weak the hopeless imbicill evolution's mistake and joke... you wish you where someone else but you remain the same and cannot change.
+line2:i miss a time that never existed. a past that was an illusion a future that was a fantasy and i'm left with a present full of silent sad bitterness with nothing.
 
 line3:i fight my doubts my fears my sadness i remain salient while the evilness of the world dance it's nightmare before me.
 line3:i light a fire in my heart i am as a light house to my soul.
 line3:darkness turns to dawn as the winds of change change once more.
 line3:time passes slowly i fall asleep into a dream of tender where i forget who i am and i am once more a child of god.
+line3:who are my friends? who are my lovers? no one! no love for me no kindness or compassion or tenderness - just a pile of rubbish and lies. i cannot look into my eyes in the mirror anymore...
 
 line4:with a fist of wrath i brake down my cage and open a path to my soul.
 line4:my will is pure as my soul... i open to love and it will not fail me.
 line4:i close my eyes and think of other times of childhood when the sun promised me eternity.
 line4:i contemplate to end it all but i am a cowered who already dies a thousand times so i may live this pain again and again.
+line4:oh life has thought my nothing but self hate. i am a slave to my temper and my mood swings. i cannot do anything right. and no one shell hear me and help me heal the wounds or carry my load.
 
 line5:men and women may hurt me and betray me sticks and stones may brake my bones yet love will not forget me.
 line5:forget anger leave fear and sadness behind you do not need it in the face of love.
 line5:i cray my heart out but do not give in... tears can be proud and honored in the realm of compassion.
 line5:today i just surrender and accept my unworthiness my failures my imperfections and sit or lay down with the shame and blame and sorrow with all this. i surrender to hopelessness and take comfort in the abyss of nothingness. to day is just a bad day one of those days where nothing works... yet i remind myself that it's okay. there are times like that.
+line5:what can i say but nothing?... what can i feel but sorrow and despair?... oh i can only pray and hope for god to mercy me... i am like a lonely stranger wandering searching for kind words... the older i get the more i hate myself... no one shell petty or comfort an old fool like me.
 
 line6:where there was loneliness there is now a party where there was pain now there is pleasure where there was ugliness now there is beauty you are worthy of love.
 line6:love from above will come to remind me of all that is worth living for.
 line6:all is full of love says the song on and on and we are all blind to see... ignorance is not a bliss.
 line6:i wish i could live knowing there is a happy ending to life... i wish i could say that there is love and compassion and kindness to all and to myself... but i know better then this... i will not fool myself to believe such fairy tales.
+line6:i used to have a future i used to have dreams and joy and youth... now i am a wreak...
 
 line7:as the sun rises and northern star leads the wheel of wind to a mild tune i see my harbor i can see my home again.
 line7:the morning has broken with all of it's glory i thank my courage not to give up and not to give in for there is still beauty love hope and goodness in this world this heart and this life.
 line7:my mother's smile my father's hug my grandma food... i remember those like a dream i dreamed yesterday beyond the fug of forgetfulness.
 line7:i tell myself god had mercy over me as a child but no more... i can cry all i want i can curse heaven and earth all i want - yet this is me and my reality i'm in there is no other then i may as well accept it while i can and try to do something good or positive from it instead of crying.
+line7:what would you prefer? an ugly truth or a pretty lie? i used to live like a fool for beautiful lies and now i'm left alone... oh how they fooled me! how they laughed at me! the beautiful lairs and traitors! may you rot in hell for your lies!.  
 
 line8:beautiful day as the ship anchors at port safe and sound i am again at home.
 line8:safe in the arms of love i look as a child on the world.
 line8:i sit and do nothing i fall asleep and wake up in the morning... when the night has gone and the sun shines and the birds sing.
 line8:life is what you make of then each day each minute so i might as well try while i am here and able... no it will never be perfect this world is not perfect either so what?.
+line8:i'm not a man of comfort i have no bullshit to sell you. life is hard and bitter if there is hope you must find it in yourself mine is to live for my stupid dreams. i keep playing the fool and keep fooling my self over and over.
 
 line9:i say the glory of life on my lips.
 line9:hallelujah!.
 line9:i open my eyes and see the morning's bright light through the windows.
+line9:no one knows you better then yourself. and whether you believe or not that you can. your belief makes it real...
 
 e0000:
 

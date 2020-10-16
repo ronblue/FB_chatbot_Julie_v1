@@ -18,8 +18,8 @@ name=chatbot_julie_v1.bas
 [Misc]
 name=answers.txt
 name=help.txt
+name=help2.txt
 name=julie_database.txt
 name=julie_log.txt
 name=questions.txt
-name=help2.txt
 [Focus]
